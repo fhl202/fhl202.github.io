@@ -2,3 +2,4 @@ baseURL = 'https://fhl202.github.io/'
 languageCode = 'en-us'
 title = 'Hugo Lambert'
 theme = "hyde"
+publishDir = "docs"
