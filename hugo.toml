@@ -25,4 +25,4 @@ theme = "hyde"
      name = 'Teaching'
      pageRef = '/teaching'   
 
-publishDir = "public"
+publishDir = "docs"
