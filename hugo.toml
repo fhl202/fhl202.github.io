@@ -17,7 +17,7 @@ theme = "hyde"
 
 
 [[menus.main]] 
-     name = 'Publications'
+     name = 'PublicationS'
      pageRef = '/pubs'   
 
 
