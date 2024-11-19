@@ -2,4 +2,27 @@ baseURL = 'https://fhl202.github.io/'
 languageCode = 'en-us'
 title = 'Hugo Lambert'
 theme = "hyde"
+[params]
+ themeColor = "theme-base-0b"
+ description = "Atmospheric Scientist, University of Exeter"
+
+[menus]
+  [[menus.main]] 
+     name = 'Research' 
+     pageRef = '/research'   
+
+[[menus.main]] 
+     name = 'Group'
+     pageRef = '/group'   
+
+
+[[menus.main]] 
+     name = 'Publications'
+     pageRef = '/pubs'   
+
+
+[[menus.main]] 
+     name = 'Teaching'
+     pageRef = '/teaching'   
+
 publishDir = "docs"
