@@ -1,6 +1,6 @@
 baseURL = 'https://fhl202.github.io/'
 languageCode = 'en-us'
-title = 'Hugo Lambert'
+title = 'Hugo Lambert 1'
 theme = "hyde"
 [params]
  themeColor = "theme-base-0b"
@@ -17,7 +17,7 @@ theme = "hyde"
 
 
 [[menus.main]] 
-     name = 'PublicationS'
+     name = 'Publications'
      pageRef = '/pubs'   
 
 
