@@ -1,6 +1,6 @@
 baseURL = 'https://fhl202.github.io/'
 languageCode = 'en-us'
-title = 'Hugo Lambert 1'
+title = 'Hugo Lambert'
 theme = "hyde"
 [params]
  themeColor = "theme-base-0b"
@@ -25,4 +25,4 @@ theme = "hyde"
      name = 'Teaching'
      pageRef = '/teaching'   
 
-publishDir = "docs"
+publishDir = "public"
