@@ -10,7 +10,7 @@ publishDir = "docs"
 
 [menus]
   [[menus.main]] 
-     name = 'Research' 
+     name = 'Entertainment' 
      pageRef = '/research'   
 
 [[menus.main]] 
