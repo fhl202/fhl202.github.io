@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fhl202.github.io/</loc>
+    <loc>https://fhl202.github.io/research/lscontrast/</loc>
     <lastmod>2025-05-19T21:46:48+01:00</lastmod>
   </url><url>
-    <loc>https://fhl202.github.io/posts/</loc>
+    <loc>https://fhl202.github.io/research/</loc>
     <lastmod>2025-05-19T21:46:48+01:00</lastmod>
+  </url><url>
+    <loc>https://fhl202.github.io/</loc>
+    <lastmod>2025-04-08T22:06:31+01:00</lastmod>
   </url><url>
     <loc>https://fhl202.github.io/posts/arrival/</loc>
     <lastmod>2025-04-08T22:06:31+01:00</lastmod>
   </url><url>
-    <loc>https://fhl202.github.io/research/forcing/</loc>
+    <loc>https://fhl202.github.io/posts/</loc>
     <lastmod>2025-04-08T22:06:31+01:00</lastmod>
   </url><url>
-    <loc>https://fhl202.github.io/research/</loc>
+    <loc>https://fhl202.github.io/research/forcing/</loc>
     <lastmod>2025-04-08T22:06:31+01:00</lastmod>
   </url><url>
     <loc>https://fhl202.github.io/categories/</loc>

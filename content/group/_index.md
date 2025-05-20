@@ -1,6 +1,6 @@
 +++
 title = 'Group'
-layout = 'list_nodate'
+layout = 'single_nodate'
 +++
 
 ![December 2022](earth_group_2022.jpg)

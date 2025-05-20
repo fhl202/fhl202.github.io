@@ -1,6 +1,6 @@
 +++
 title = 'Teaching and administration'
-layout = 'list_nodate'
+layout = 'single_nodate'
 +++
 
 **In 2024-5 I am teaching**
