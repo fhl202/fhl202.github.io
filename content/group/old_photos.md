@@ -1,5 +1,5 @@
 +++
-title = 'Old Photos'
+title = 'Old Photos Page'
 layout = 'single_nodate'
 +++
 
