@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Hugo Lambert</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Research on Hugo Lambert</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Apr 2025 22:06:31 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Radiative forcing and response</title>
+      <link>http://localhost:1313/research/forcing/</link>
+      <pubDate>Tue, 08 Apr 2025 22:06:31 +0100</pubDate>
+      <guid>http://localhost:1313/research/forcing/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve done a fair bit of research on radiative forcing and feedbacks, especially short-term adjustment to&#xA;forcing, but mostly not for a long time. I answered a challenge from &lt;strong&gt;Patrick Taylor&lt;/strong&gt; at&#xA;NASA Langley to explain the pattern of the regional tropical water vapour and lapse rate feedbacks.&#xA;These don&amp;rsquo;t show a sharp anti-correlation like the tropical mean water vapour and lapse rate feedbacks&#xA;across climate models, but they are largely explained by simple processes. Regional variations in the tropical lapse&#xA;rate feedback in particular are determined by the difference in the varying tropical surface temperature&#xA;and the fairly constant atmospheric temperature. This work was published as Lambert and Taylor, (2014).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

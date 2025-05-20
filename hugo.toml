@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Hugo Lambert'
 theme = "hyde"
 publishDir = "docs"
+#sectionPagesMenu = 'main'   # This is auto menus.
 
 [params]
  themeColor = "theme-base-0b"
@@ -10,18 +11,18 @@ publishDir = "docs"
 
 [menus]
   [[menus.main]] 
-     name = 'Entertainment' 
-     pageRef = '/research'   
+     name = 'Research' 
+     url = '/research/'   
 
 [[menus.main]] 
      name = 'Group'
-     pageRef = '/group'   
+     url = '/group/'   
  
 [[menus.main]] 
      name = 'Publications'
-     pageRef = '/pubs'   
+     url = '/pubs/'   
 
 
 [[menus.main]] 
-     name = 'Teaching'
-     pageRef = '/teaching'   
+     name = 'Teaching and Admin'
+     url = '/teaching/'

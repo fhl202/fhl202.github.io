@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Group on Hugo Lambert</title>
+    <link>http://localhost:1313/group/</link>
+    <description>Recent content in Group on Hugo Lambert</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/group/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Old Photos</title>
+      <link>http://localhost:1313/group/old_photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group/old_photos/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../group2020_low.jpg&#34; alt=&#34;October 2020&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Figure 7: Today&amp;rsquo;s line-up: 1. Hugo Lambert, 2. Jake Eager, 3. Marianne Pietschnig (on a yellow card from the first leg),&#xA;4. Denis Sergeev, 5. Monisha Natchiar, 6. Alex Loader, 7. Jonathan Beverley, 8. Robbie Ridgway, 9. Harry Mutton, 10. Ruth Geen,&#xA;11. Toby Ferrison (on loan from Natural Sciences). October 2020.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../group2019_low.jpg&#34; alt=&#34;November 2019&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Figure 6: Left-to-right: Jake Eager (hanger-on), me, Ruth Geen, Jonathan Beverley, Robbie Ridgway, Marianne Pietschnig,&#xA;Denis Sergeev, Harry Mutton. Thanks to Rebecca Varney, the first person to appear in and take the photo. However, only three&#xA;people in the picture actually knew what a simple 4-4-2 formation is. November 2019.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

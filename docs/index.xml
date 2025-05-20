@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Lambert</title>
-    <link>https://fhl202.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Hugo Lambert</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://fhl202.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 21:46:48 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Land-sea contrast</title>
+      <link>http://localhost:1313/posts/lscontrast/</link>
+      <pubDate>Mon, 19 May 2025 21:46:48 +0100</pubDate>
+      <guid>http://localhost:1313/posts/lscontrast/</guid>
+      <description>&lt;p&gt;Under quite globally uniform forcing, surface temperature&#xA;responses behave like local responses to the global mean radiative&#xA;forcing, even away from equilibrium. In models, this means that&#xA;simulated patterns of temperature change look similar under different&#xA;forcing scenarios. In the real world, it means that land and ocean&#xA;temperatures continue to increase in a constant ratio that we do not&#xA;expect to change if warming accelerates or if it slows down. This is&#xA;true even though the land shows a much smaller heat capacity to&#xA;climate change than the ocean.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/posts/arrival/</link>
+      <pubDate>Tue, 08 Apr 2025 22:06:31 +0100</pubDate>
+      <guid>http://localhost:1313/posts/arrival/</guid>
+      <description>&lt;p&gt;I am an associate professor (equivalent of UK reader) in the&#xA;&lt;a href=&#34;https://mathematics.exeter.ac.uk/research/fluid-dynamics/&#34;&gt;Geophysical and Astrophysical Fluid Dynamics&lt;/a&gt;&#xA;group,&#xA;which is part of the &lt;a href=&#34;https://mathematics.exeter.ac.uk&#34;&gt;Department of Mathematics and Statistics&lt;/a&gt;&#xA;at the &lt;a href=&#34;https://www.exeter.ac.uk&#34;&gt;University of Exeter&lt;/a&gt;. I am a&#xA;member of the &lt;a href=&#34;https://exoclimatology.com/&#34;&gt;Exeter Exoplanet Theory Group&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Radiative forcing and response</title>
+      <link>http://localhost:1313/research/forcing/</link>
+      <pubDate>Tue, 08 Apr 2025 22:06:31 +0100</pubDate>
+      <guid>http://localhost:1313/research/forcing/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve done a fair bit of research on radiative forcing and feedbacks, especially short-term adjustment to&#xA;forcing, but mostly not for a long time. I answered a challenge from &lt;strong&gt;Patrick Taylor&lt;/strong&gt; at&#xA;NASA Langley to explain the pattern of the regional tropical water vapour and lapse rate feedbacks.&#xA;These don&amp;rsquo;t show a sharp anti-correlation like the tropical mean water vapour and lapse rate feedbacks&#xA;across climate models, but they are largely explained by simple processes. Regional variations in the tropical lapse&#xA;rate feedback in particular are determined by the difference in the varying tropical surface temperature&#xA;and the fairly constant atmospheric temperature. This work was published as Lambert and Taylor, (2014).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Old Photos</title>
+      <link>http://localhost:1313/group/old_photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/group/old_photos/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;../group2020_low.jpg&#34; alt=&#34;October 2020&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Figure 7: Today&amp;rsquo;s line-up: 1. Hugo Lambert, 2. Jake Eager, 3. Marianne Pietschnig (on a yellow card from the first leg),&#xA;4. Denis Sergeev, 5. Monisha Natchiar, 6. Alex Loader, 7. Jonathan Beverley, 8. Robbie Ridgway, 9. Harry Mutton, 10. Ruth Geen,&#xA;11. Toby Ferrison (on loan from Natural Sciences). October 2020.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../group2019_low.jpg&#34; alt=&#34;November 2019&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Figure 6: Left-to-right: Jake Eager (hanger-on), me, Ruth Geen, Jonathan Beverley, Robbie Ridgway, Marianne Pietschnig,&#xA;Denis Sergeev, Harry Mutton. Thanks to Rebecca Varney, the first person to appear in and take the photo. However, only three&#xA;people in the picture actually knew what a simple 4-4-2 formation is. November 2019.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
