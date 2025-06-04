@@ -77,4 +77,4 @@ in the climate sensitivity group at the UK Met Office.
 
 ## The old photos page
 
-[Old photos...](old_photos.md)
+[Old photos...](old_photos)
