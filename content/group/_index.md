@@ -75,6 +75,5 @@ in the climate sensitivity group at the UK Met Office.
 
 **Margriet Groenendijk** (Associate research fellow, 2011-4) moved on to work for IBM.
 
-## The old photos page
+## [The old photos page](old_photos)
 
-[Old photos...](old_photos)

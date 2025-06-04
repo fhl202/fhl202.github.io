@@ -3,6 +3,8 @@ title = 'Old Photos Page'
 layout = 'single_nodate'
 +++
 
+A Who's Who of Science since 1638.
+
 ![October 2020](../group2020_low.jpg)
 
 *Figure 7: Today's line-up: 1. Hugo Lambert, 2. Jake Eager, 3. Marianne Pietschnig (on a yellow card from the first leg), 
