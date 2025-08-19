@@ -2,8 +2,11 @@
 date = '2025-04-08T22:06:31+01:00'
 title = 'Radiative forcing and response'
 #draft = true
+layout= 'single'
 type = 'research'
 +++
+
+![Lambert and Taylor 2014](/research/lambert_taylor_2014.jpg)
 
 I've done a fair bit of research on radiative forcing and feedbacks, especially short-term adjustment to
 forcing, but mostly not for a long time. I answered a challenge from **Patrick Taylor** at 
@@ -16,6 +19,8 @@ and the fairly constant atmospheric temperature. This work was published as Lamb
 **Angus Ferraro** published a follow up, Ferraro et al., (2015), tested these ideas using satellite observations. It was found that the ideas
 are largely supported, providing a "useful process-based test of climate models" even if the results are unconnected
 to determining the more important mean tropical lapse rate and water vapour feedbacks.
+
+
 
 My earliest paper on forcing and response was Lambert and Faull, (2007), which described the basic differences in global 
 mean response between carbon dioxide and solar forced climate model experiments: tropospheric adjustments deal with 

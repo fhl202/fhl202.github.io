@@ -4,6 +4,7 @@ date = '2025-05-19T21:46:48+01:00'
 title = 'Land-sea contrast'
 +++
 
+![Land-sea contrast schematic](/research/lambert_2011_ls_scheme.jpg)
 
 
 Under quite globally uniform forcing, surface temperature

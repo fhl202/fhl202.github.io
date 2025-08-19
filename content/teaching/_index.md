@@ -3,7 +3,7 @@ title = 'Teaching and administration'
 layout = 'single_nodate'
 +++
 
-**In 2024-5 I am teaching**
+**In 2025-6 I am teaching**
 
 MTHM023 - Modelling the Weather and Climate
 

@@ -4,8 +4,10 @@ title = 'About'
 layout = 'index' # Think this line is moot.
 +++
 
-I am an associate professor (equivalent of UK reader) in the 
-[Geophysical and Astrophysical Fluid Dynamics](https://mathematics.exeter.ac.uk/research/fluid-dynamics/)
+![Hugo](/hugo_photo.jpg#floatright)
+
+
+I am a professor in the [Geophysical and Astrophysical Fluid Dynamics](https://mathematics.exeter.ac.uk/research/fluid-dynamics/)
       group, 
       which is part of the [Department of Mathematics and Statistics](https://mathematics.exeter.ac.uk)
       at the [University of Exeter](https://www.exeter.ac.uk). I am a
