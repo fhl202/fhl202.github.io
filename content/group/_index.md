@@ -12,29 +12,33 @@ layout = 'single_nodate'
 ### I currently work with the following people:
 
 
-[**Alex Loader**](https://experts.exeter.ac.uk/35300-alex-loader/about) is a PhD student
-  working on how interactions between physics and chemistry influence
-  the fate of condensibles on exoplanets. He is supervised by me and [Eric Hebrard](http://emps.exeter.ac.uk/physics-astronomy/staff/eh484). 
 
-[**Danny McCulloch**](https://physics-astronomy.exeter.ac.uk/staff/dm575) is a PhD student
-  working on the local and remote effects of the interactions between
-  cloud and circulation, associated with the NERC CIRCULATES
-  project. He is supervised by me, Mark Webb at the Met Office and [Geoff Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/).
-
-[**Monisha Natchiar**](https://experts.exeter.ac.uk/35547-monisha-natchiar-subbiah-renganathan/about) is a
-  research fellow working on understanding cloud
-  feedbacks as part of the NERC CIRCULATES project with [Geoff Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/)
-  and me.
-
-[**Kasturi Singh**](http://mathematics.exeter.ac.uk/staff/ks1034) is a Leverhulme funded
+**Nell Hartney** is a Leverhulme funded
 	     research fellow 
 	     working on understanding parametric and structural
 	     uncertainty in NWP modelling in collaboration
 	     with [Hannah
 	     Christensen](https://www.physics.ox.ac.uk/our-people/arnold) at Oxford.
 
+[**Stephen Hughes**](https://experts.exeter.ac.uk/42525-stephen-hughes) is an STFC PhD student with Will Seviour, but currently on secondment with me looking at relationships between radiative feedbacks under the NERC CIRCULATES project.
+
+
+[**Danny McCulloch**](https://physics-astronomy.exeter.ac.uk/staff/dm575) is a PhD student
+  working on the local and remote effects of the interactions between
+  cloud and circulation, associated with the NERC CIRCULATES
+  project. He is supervised by me, Mark Webb at the Met Office and [Geoff Vallis](http://empslocal.ex.ac.uk/people/staff/gv219/).
+
+
+
 
 ## Former members (Let me know if you want this updated)
+
+
+**Alex Loader** (PhD student, 2021-25) worked towards a PhD on the interaction between a planet's hydrological cycle, its climate and stellar environment.
+
+[**Monisha Natchiar**](https://experts.exeter.ac.uk/35547-monisha-natchiar-subbiah-renganathan/about) (Research fellow, 2020-25) continues as a research fellow in the department.
+
+**Kasturi Singh** (Research Fellow, 2022-24) was a Leverhulme-funded research fellow working on understanding modelling uncertainty due to parametrisation.
 
 [**Denis Sergeev**](https://dennissergeev.github.io/?utm_campaign=exeter.ac.uk) (Research fellow, 2018-24) is now a lecturer at the University of Bristol.
 
@@ -47,17 +51,17 @@ layout = 'single_nodate'
 **Harry Mutton** (PhD student, 2019-22) is now a researcher
 in the climate sensitivity group at the UK Met Office.
 
-[**Shubhi Agrawal**](https://www.researchgate.net/profile/Shubhi-Agrawal) (Research fellow, 2021-2022) is now
+[**Shubhi Agrawal**](https://www.researchgate.net/profile/Shubhi-Agrawal) (Research fellow, 2021-22) is now
   an assistant professor at IISER Bhopal.
 
-[**Dipanjan Dey**](https://www.iitbbs.ac.in/profile.php/dipanjan/) (Research fellow, 2021-2022) is now an assistant professor at IIT Bhubaneswar.
+[**Dipanjan Dey**](https://www.iitbbs.ac.in/profile.php/dipanjan/) (Research fellow, 2021-22) is now an assistant professor at IIT Bhubaneswar.
 
-**Jonathan Beverley** (Associate research fellow, 2018-2022) is now a researcher at the University of Colorado, Boulder.</p>
+**Jonathan Beverley** (Associate research fellow, 2018-22) is now a researcher at the University of Colorado, Boulder.</p>
 
 [**Ruth Geen**](https://research.birmingham.ac.uk/en/persons/ruth-geen) (Research fellow, 2016-21) is now a lecturer
       at the University of Birmingham.
 
-[**Marianne Pietschnig**](https://marianne-pietschnig.github.io/) (PhD student and Research fellow, 2017-20) is now an impact fellow in the University of Exeter Department of Geography.
+[**Marianne Pietschnig**](https://marianne-pietschnig.github.io/) (PhD student and Research fellow, 2017-20) is now back as a research fellow in the Department.
 
 **Marion Saint-Lu** (Associate research fellow, 2016-8)
       moved back to France for a fellowship at Laboratoire de
