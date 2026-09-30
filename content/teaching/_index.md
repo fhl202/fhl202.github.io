@@ -3,12 +3,13 @@ title = 'Teaching and administration'
 layout = 'single_nodate'
 +++
 
-**In 2025-6 I am teaching**
+**In 2026-7 I am teaching**
 
-MTHM023 - Modelling the Weather and Climate
+MTHM023 - Modelling the Weather and Climate (with [George Efstathiou](https://experts.exeter.ac.uk/23647-georgios-efstathiou))
 
-MTH1002 - Mathematical Methods (led by [Layal Hakim](https://experts.exeter.ac.uk/26537-layal-hakim) and [Mike O'Sullivan](https://experts.exeter.ac.uk/27704-mike-o%27sullivan))
+MTH1002 - Mathematical Methods (led by [Mark Holland](https://experts.exeter.ac.uk/926-mark-holland) and [Bob Beare](https://experts.exeter.ac.uk/700-robert-beare))
 
+MTH3035 - Mathematics Group Project (led by [John Thuburn](https://experts.exeter.ac.uk/1223-john-thuburn))
 
 ## Administration
 

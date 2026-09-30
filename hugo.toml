@@ -26,3 +26,7 @@ publishDir = "docs"
 [[menus.main]] 
      name = 'Teaching and Admin'
      url = '/teaching/'
+
+[[menus.main]]
+      name = 'Blog'
+      url = '/blog/'
