@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fhl202.github.io/research/lscontrast/</loc>
+    <loc>https://fhl202.github.io/research/</loc>
     <lastmod>2025-05-19T21:46:48+01:00</lastmod>
   </url><url>
-    <loc>https://fhl202.github.io/research/</loc>
+    <loc>https://fhl202.github.io/research/lscontrast/</loc>
     <lastmod>2025-05-19T21:46:48+01:00</lastmod>
   </url><url>
     <loc>https://fhl202.github.io/</loc>
@@ -29,6 +29,8 @@
     <loc>https://fhl202.github.io/group/old_photos/</loc>
   </url><url>
     <loc>https://fhl202.github.io/pubs/</loc>
+  </url><url>
+    <loc>https://fhl202.github.io/blog/</loc>
   </url><url>
     <loc>https://fhl202.github.io/tags/</loc>
   </url><url>

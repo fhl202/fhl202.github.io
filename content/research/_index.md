@@ -1,6 +1,6 @@
 +++
-title = 'Research'
-type = 'research'
+title = 'Blog'
+type = 'blog'
 layout = 'list_wsummary'
 +++
 
